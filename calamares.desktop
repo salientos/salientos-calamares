@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Salient OS
+GenericName=Salient OS Installer
+Keywords=calamares;system;installer;
+Comment=Install the operating system to disk
+Exec=sh -c "/etc/calamares/launch.sh"
+Icon=calamares
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Qt;System;
+Path=
